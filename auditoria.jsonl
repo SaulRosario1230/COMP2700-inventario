@@ -1,0 +1,13 @@
+{"fecha_hora": "2026-11-11T23:40:58.559736+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:40:58.589506+00:00", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:40:58.591063+00:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 10, "nueva": 20}}
+{"fecha_hora": "2026-11-11T23:40:58.618578+00:00", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:40:58.618972+00:00", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "detalles": {"motivo": "permiso_insuficiente"}}
+{"fecha_hora": "2026-11-11T23:41:14.067554+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:14.067939+00:00", "usuario": "admin", "accion": "consultar", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:17.832271+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:17.858542+00:00", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:17.858813+00:00", "usuario": "no_existe", "accion": "login", "resultado": "fallido", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:33.151002+00:00", "usuario": "desconocido", "accion": "consultar", "resultado": "rechazado", "detalles": {"motivo": "sesion_invalida"}}
+{"fecha_hora": "2026-11-11T23:41:33.239674+00:00", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha_hora": "2026-11-11T23:41:33.239924+00:00", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "detalles": {"motivo": "permiso_insuficiente"}}
