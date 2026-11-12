@@ -1,6 +1,7 @@
 # COMP 2700 — Aplicación de inventario corregida
 
-**Estudiante:** [Escriba su nombre aquí]
+**Estudiante:** Saul Rosario
+**Numero de Estudiante:** Y00651230
 
 ## Alcance
 
